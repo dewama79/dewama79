@@ -3,9 +3,9 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic. I am a PhD student at Oregon Health & Science University.
+I am an academic. I am a PhD student at Oregon Health & Science University.
+## Current Interests and Projects:My research is about health-related predictors in breast cancer patients in Saudi Arabia.
 
-## Current Interests and Projects:
 
 - Website Design
 - [GitHub Pages](http://laderast.github.io)
