@@ -53,14 +53,14 @@ Presentation Title, The Role of Gender and Dyadic Coping on Psychological Qualit
 `Current`
 __PhD Nursing student__, OHSU 
 
-- Task
-- Task
+- 
+- 
 
 `2013-2015`
 __Graduate Teaching Assistant__, OHSU
 
-- Task
-- Task
+- 
+- 
 
 `2013-2015`
 Oncology Patient Educator__, International Medical Center- Jeddah, Saudi Arabia
