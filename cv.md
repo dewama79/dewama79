@@ -42,25 +42,28 @@ Book Title, Journal Title
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2016`
+Presentation Title, The Role of Couple Communication and Physical Intimacy on Quality of Life among Fibromyalgia Patients and their Spouses, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+
+Presentation Title, The Role of Gender and Dyadic Coping on Psychological Quality of Life among Cancer Survivors and their Spouses, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__PhD Nursing student__, OHSU 
 
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2013-2015`
+__Graduate Teaching Assistant__, OHSU
 
 - Task
 - Task
 
-
+`2013-2015`
+Oncology Patient Educator__, International Medical Center- Jeddah, Saudi Arabia
 
 <!-- ### Footer
 
