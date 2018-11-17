@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-PhD Student
+PhD Nursing Student at Oregon Health and Science University
 ## Education 
 
 `2010 - 2012`
