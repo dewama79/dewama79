@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Mashael Mashael
-  avatar: images/bio-photo.jpg
+  avatar: bio-photo.jpg
   bio: "This is a sample of my academic website."
   email: dewama@ohsu.edu
   # Do not include the @ symbol in your Twitter username
