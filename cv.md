@@ -3,22 +3,21 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD Student
+## Education 
 
-## Education
+`2010 - 2012`
+__Florida Atlantic Univeristy__
+Master as Clinical Nurse Leader
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1998 - 2002`
+__king AbulAziz University__
+BSN 
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+## Award
 
-## Awards
-
-`2012`
-Name of Award, Organization 
+`2018`
+Dean award, Oregon Health and Science University 
 
 ## Publications
 
